@@ -9,6 +9,12 @@ Furthermore, the program allows to create accounts (with Username and Password) 
 The Microsoft Access database works only after installing:
 * *Microsoft Data Access Components*: https://www.microsoft.com/en-us/download/details.aspx?id=21995
 * *Microsoft Access Database Engine*: https://www.microsoft.com/en-us/download/details.aspx?id=54920
+* *.NET Framework 4.6.1 Developer Pack*: https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-developer-pack-offline-installer
+
+## How to launch the program:
+Open the solution with Visual Studio and compile (anyway you can already find the executable in ..........).
+Then go to .......... and run the executable.
+Open the .exe file twice if you want it to run on the same machine or open one instance on one machine and one instance on another if you want the 2 PCs to communicate with each other.
 
 ## Usage
 For the program to work, 2 instances of the same program need to be open in the same local network. (it can be the same PC, but it is not necessary). One instance will be the server, the other one will be the client.<br>
