@@ -1,0 +1,149 @@
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\obj\Debug\PrimaProva.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\bin\Debug\PrimaProva.exe.config
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\bin\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\bin\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\obj\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\PrimaProva\PrimaProva\obj\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\bin\Debug\PrimaProva.exe.config
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\bin\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\bin\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\obj\Debug\PrimaProva.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\obj\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\SecondaProva\PrimaProva\obj\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\bin\Debug\PrimaProva.exe.config
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\bin\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\bin\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\obj\Debug\PrimaProva.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\obj\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\TerzaProva\PrimaProva\obj\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\bin\Debug\PrimaProva.exe.config
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\bin\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\bin\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\bin\Debug\ExtensionMethods.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\bin\Debug\Newtonsoft.Json.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\bin\Debug\ExtensionMethods.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\obj\Debug\PrimaProva.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\obj\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\obj\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0\PrimaProva\obj\Debug\PrimaProva.InsertKey.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\PrimaProva.exe.config
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\ExtensionMethods.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\Newtonsoft.Json.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\ExtensionMethods.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.CreaAccount.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.InsertKey.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.Login.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.pdb
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\PrimaProva.exe.config
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\PrimaProva.exe
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\PrimaProva.pdb
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\ExtensionMethods.dll
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\bin\Debug\ExtensionMethods.pdb
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.csprojAssemblyReference.cache
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.CreaAccount.resources
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.InsertKey.resources
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.Login.resources
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.cache
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.csproj.CopyComplete
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.exe
+F:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Rsa_v3.0 Utenti\PrimaProva\obj\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.CreaAccount.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.InsertKey.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.Login.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\obj\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\bin\Debug\PrimaProva.exe.config
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\bin\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\bin\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\bin\Debug\ExtensionMethods.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\bin\Debug\Newtonsoft.Json.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto\PrimaProva\bin\Debug\ExtensionMethods.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\bin\Debug\PrimaProva.exe.config
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\bin\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\bin\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\bin\Debug\ExtensionMethods.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\bin\Debug\Newtonsoft.Json.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\bin\Debug\ExtensionMethods.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.CreaAccount.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.InsertKey.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.Login.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Formaggio Alberto - Copia\PrimaProva\obj\Debug\PrimaProva.pdb
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\bin\Debug\PrimaProva.exe.config
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\obj\Debug\PrimaProva.exe
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\obj\Debug\PrimaProva.pdb
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\obj\Debug\PrimaProva.csprojResolveAssemblyReference.cache
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\obj\Debug\PrimaProva.CreaAccount.resources
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\obj\Debug\PrimaProva.InsertKey.resources
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\obj\Debug\PrimaProva.Login.resources
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+G:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da consegnare\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.CreaAccount.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.InsertKey.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.Login.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.Cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\obj\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\bin\Debug\PrimaProva.exe.config
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\bin\Debug\PrimaProva.exe
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\bin\Debug\PrimaProva.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\bin\Debug\ExtensionMethods.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\bin\Debug\Newtonsoft.Json.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\Da correggere Formaggio\PrimaProva\bin\Debug\ExtensionMethods.pdb
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\bin\Debug\PrimaProva.exe.config
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\bin\Debug\PrimaProva.exe
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\bin\Debug\PrimaProva.pdb
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\bin\Debug\ExtensionMethods.pdb
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.csprojAssemblyReference.cache
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.CreaAccount.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.Form1.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.InsertKey.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.Login.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.Properties.Resources.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.csproj.GenerateResource.cache
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.csproj.CopyComplete
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.exe
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\Debug\PrimaProva.pdb

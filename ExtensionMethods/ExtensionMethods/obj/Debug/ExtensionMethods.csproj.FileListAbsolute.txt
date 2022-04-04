@@ -1,0 +1,6 @@
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\ExtensionMethods\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csprojResolveAssemblyReference.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.dll
+H:\dati\SCUOLA\QUINTA\SISTEMI\RSA\ExtensionMethods\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

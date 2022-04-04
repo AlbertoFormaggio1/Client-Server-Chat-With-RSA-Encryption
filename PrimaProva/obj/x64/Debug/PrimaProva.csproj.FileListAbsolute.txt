@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\x64\Debug\PrimaProva.csprojAssemblyReference.cache
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\x64\Debug\PrimaProva.CreaAccount.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\x64\Debug\PrimaProva.Form1.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\x64\Debug\PrimaProva.InsertKey.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\x64\Debug\PrimaProva.Login.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\x64\Debug\PrimaProva.Properties.Resources.resources
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\x64\Debug\PrimaProva.csproj.GenerateResource.cache
+C:\Users\User\Documents\Universita\RSA_FINALE_Davvero (nel 2022)-20220403T212510Z-001\RSA_FINALE_Davvero (nel 2022)\PrimaProva\obj\x64\Debug\PrimaProva.csproj.CoreCompileInputs.cache

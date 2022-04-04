@@ -32,6 +32,8 @@ For the program to work, 2 instances of the same program need to be open in the 
 2) Copy the Port number from the server machine
 3) Click CONNECT: The connection between the two machines is now established
 
+<img src="" width="600px">
+
 ### Send texts
 Once a connection has been established, client and server can send text messages by using the textbox at the bottom of the window.<br>
 After sending a message, the sender will be able to see the text sent in the section on the left and the cyphered text on the right.<br>
