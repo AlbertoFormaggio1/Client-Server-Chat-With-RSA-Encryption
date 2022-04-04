@@ -11,6 +11,8 @@ Furthermore, the program allows to create accounts (with Username and Password) 
 The Microsoft Access database works only after installing:
 * *Microsoft Data Access Components*: https://www.microsoft.com/en-us/download/details.aspx?id=21995
 * *Microsoft Access Database Engine*: https://www.microsoft.com/en-us/download/details.aspx?id=54920
+
+As the application was developed on an older version of Visual Studio, you will need the following framework installed in order for the program to work:
 * *.NET Framework 4.6.1 Developer Pack*: https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-developer-pack-offline-installer
 
 ## How to launch the program:
