@@ -5,6 +5,8 @@ The initial idea was to create a program capable of cyphering and decyphering so
 In order to implement this idea, I decided to create a real time chat program which cyphers and decyphers the text when sending and receiving the text of the message, respectively.<br>
 Furthermore, the program allows to create accounts (with Username and Password) which will be saved on an Access Local Database (this can be easily generalized to online databases). Every user has its own public and private keys that can be easily re-generated after the user has logged in.
 
+<img src="https://github.com/AlbertoFormaggio1/Client-Server-Chat-With-RSA-Encryption/blob/main/images/Window.PNG" width="900px">
+
 ## Pre-Requisites
 The Microsoft Access database works only after installing:
 * *Microsoft Data Access Components*: https://www.microsoft.com/en-us/download/details.aspx?id=21995
@@ -32,7 +34,7 @@ For the program to work, 2 instances of the same program need to be open in the 
 2) Copy the Port number from the server machine
 3) Click CONNECT: The connection between the two machines is now established
 
-<img src="" width="600px">
+<img src="https://github.com/AlbertoFormaggio1/Client-Server-Chat-With-RSA-Encryption/blob/main/images/ServerClient.png" width="600px">
 
 ### Send texts
 Once a connection has been established, client and server can send text messages by using the textbox at the bottom of the window.<br>
@@ -40,6 +42,8 @@ After sending a message, the sender will be able to see the text sent in the sec
 The receiver instead will see the cyphered received text on the right and the decyphered text which will be written in the chat on the left.
 
 There is no need for Client and Server to take turns: anyone can send as many texts as wanted without waiting for an answer from the other user.
+
+<img src="https://github.com/AlbertoFormaggio1/Client-Server-Chat-With-RSA-Encryption/blob/main/images/Chat.PNG" width="600px">
 
 ### Accounts and Keys
 **After establishing a connection** it is possible to log in or create a new account by going to the *Account* section in the top left-hand corner.
