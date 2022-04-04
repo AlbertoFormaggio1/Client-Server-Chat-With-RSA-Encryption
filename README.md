@@ -1,8 +1,8 @@
 # Chat app with RSA Encryption
 
 ## Overview
-The initial idea was to create a program capable of cyphering and decyphering some text by using the algorithm of the asymmetric key defined by RSA handshake protocol.
-In order to implement this idea, I decided to create a real time chat program which cyphers and decyphers the text when sending and receiving the text of the message, respectively.<br>
+The initial idea was to create a program capable of ciphering and deciphering some text by using the algorithm of the asymmetric key defined by RSA handshake protocol.
+In order to implement this idea, I decided to create a real time chat program which ciphers and deciphers the text when sending and receiving the text of the message, respectively.<br>
 Furthermore, the program allows to create accounts (with Username and Password) which will be saved on an Access Local Database (this can be easily generalized to online databases). Every user has its own public and private keys that can be easily re-generated after the user has logged in.
 
 <img src="https://github.com/AlbertoFormaggio1/Client-Server-Chat-With-RSA-Encryption/blob/main/images/Window.PNG" width="800px">
@@ -14,8 +14,8 @@ The Microsoft Access database works only after installing:
 * *.NET Framework 4.6.1 Developer Pack*: https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net461-developer-pack-offline-installer
 
 ## How to launch the program:
-Open the solution with Visual Studio and compile (anyway you can already find the executable in ..........).
-Then go to .......... and run the executable.
+Open the solution with Visual Studio and compile (anyway you can already find the executable in Client-Server-Chat-With-RSA-Encryption/PrimaProva/bin/Debug/).
+Then go to the aforementioned folder and run the executable.
 Open the .exe file twice if you want it to run on the same machine or open one instance on one machine and one instance on another if you want the 2 PCs to communicate with each other.
 
 ## Usage
@@ -38,8 +38,8 @@ For the program to work, 2 instances of the same program need to be open in the 
 
 ### Send texts
 Once a connection has been established, client and server can send text messages by using the textbox at the bottom of the window.<br>
-After sending a message, the sender will be able to see the text sent in the section on the left and the cyphered text on the right.<br>
-The receiver instead will see the cyphered received text on the right and the decyphered text which will be written in the chat on the left.
+After sending a message, the sender will be able to see the text sent in the section on the left and the ciphered text on the right.<br>
+The receiver instead will see the ciphered received text on the right and the deciphered text which will be written in the chat on the left.
 
 There is no need for Client and Server to take turns: anyone can send as many texts as wanted without waiting for an answer from the other user.
 
